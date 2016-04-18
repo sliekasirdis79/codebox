@@ -1,27 +1,23 @@
 {
-    "name": "codebox",
+    "name": "write++",
     "description": "Extensible hybrid IDE",
     "version": "1.0.0-alpha.5",
-    "author": "FriendCode Inc. <contact@codebox.io>",
-    "license": "Apache 2",
+    "author": "LithSoft.",
+    "license": "Closed source",
     "preferGlobal": true,
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CodeboxIDE/codebox.git"
+        "url": "https://github.com/sliekasirdis79/codebox.git"
     },
     "keywords": [
         "cli", "ide", "server", "desktop", "development", "code", "editor"
     ],
     "contributors": [
         {
-            "name": "Aaron O'Mullan",
-            "email": "aaron.omullan@gmail.com"
+            "name": "Ignas Balsys",
+            "email": "ignasbalsys79@gmail.com"
         },
-        {
-            "name": "Samy Pesse",
-            "email": "samypesse@gmail.com"
-        }
     ],
     "bin": {
         "codebox": "./bin/codebox.js"
